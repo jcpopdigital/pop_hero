@@ -236,7 +236,7 @@ class HeroProfile extends StatelessWidget {
                           child: Column(
                             children: [
                               const Text(
-                                'Your Name',
+                                'JC Choi',
                                 style: TextStyle(
                                   fontSize: 24,
                                   fontWeight: FontWeight.bold,
@@ -245,7 +245,7 @@ class HeroProfile extends StatelessWidget {
                               ),
                               const SizedBox(height: 8),
                               Text(
-                                'Your Title',
+                                ' ',
                                 style: TextStyle(
                                   fontSize: 16,
                                   color: Colors.white.withOpacity(0.9),
